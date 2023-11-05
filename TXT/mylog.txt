@@ -49,3 +49,16 @@ ZCZC W05 90 L05 Quiz related including studying
 ZCZC W05 60 L45 TXT/SHA256SUM related
 ZCZC W05 120 L24 Scripting in general.
 ZCZC W05 60 L41 TXT/mylog.txt related.
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 120 L07 Demo related
+ZCZC W06 120 L25 C-language including Make.
+ZCZC W06 60 L23 Bash, Regex, SED, AWK.
+ZCZC W06 60 L24 Scripting in general.
+ZCZC W06 100 L05 Quiz related including studying
+ZCZC W06 60 L40 TXT/ related in general.
+ZCZC W06 60 L41 TXT/mylog.txt related.
+ZCZC W06 60 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W06 60 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 60 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 15 L45 TXT/SHA256SUM related
