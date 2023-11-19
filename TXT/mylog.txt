@@ -74,3 +74,13 @@ ZCZC W07 60 L23 Bash, Regex, SED, AWK.
 ZCZC W07 60 L24 Scripting in general.
 ZCZC W07 60 L40 TXT/ related in general.
 ZCZC W07 60 L41 TXT/mylog.txt related.
+ZCZC W08 60 L24 Scripting in general.
+ZCZC W08 100 L05 Quiz related including studying
+ZCZC W08 100 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W08 100 L05 Quiz related including studying.
+ZCZC W08 60 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W08 60 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 60 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W08 90 L45 TXT/SHA256SUM relate
+ZCZC W08 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 120 L06 References/Books/Documents/Browsing/GSGS related
